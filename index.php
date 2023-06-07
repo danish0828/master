@@ -22,7 +22,7 @@
             <div class="container pt-12 pt-md-14 pb-14 pb-md-16">
                 <div class="row gy-10 gy-md-13 gy-lg-0 align-items-center justify-content-between">
                     <div class="col-lg-7 col-xxl-7 text-center text-lg-start" data-cues="slideInDown" data-group="page-title" data-delay="600">
-                        <h1 class="display-1 mb-5 text-light">Achieve Your Dream With Us</h1>
+                        <h1 class="display-1 mb-5 text-light">Achieve Your Dreams With Us</h1>
                         <p class="fs-18 lh-sm mb-7 px-md-10 px-lg-0 text-light">Our experienced writers , editors and publishers are dedicated to bringing your literary vision to life! With our expertise in eBook formatting, cover design, and distribution, we make the process of self-publishing easy and accessible for everyone.</p>
                         <div class="d-flex justify-content-center justify-content-lg-start" data-cues="slideInDown" data-group="page-title-buttons" data-delay="900">
                             <span><a href="#" class="btn btn-primary mb-2 me-1">Get Started</a></span>
